@@ -1,0 +1,23 @@
+.card {
+    height: 400px; /* Your height here */
+    overflow: hidden;
+}
+
+.card-image {
+    height: 250px; /* Your height here */
+    overflow: hidden;
+}
+
+.not_visible{
+    display: none;
+}
+.card_search{
+    width: 100%;
+    box-shadow: 0px 8px 8px 0px rgba(0, 0, 0, 25);
+    transition: 0.5s;
+    border-radius: 7px;
+    padding: 15px 15px;
+}
+.item{
+    text-decoration: none;
+}
